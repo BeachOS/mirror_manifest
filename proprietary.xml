@@ -1,0 +1,45 @@
+<manifest>
+
+  <remote name="gitlab-priv"
+          fetch="ssh://git@gitlab.com" />
+
+  <project name="BeachOS/proprietary_beach-fdroid-repo-apks" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_fairphone_FP4" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_firmware_jasmine_sprout" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_barbet" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_bluejay" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_blueline" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_bonito" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_bramble" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_cheetah" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_coral" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_crosshatch" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_flame" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_oriole" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_panther" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_raven" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_redfin" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_sargo" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_sunfish" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_devices" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_devices_barbet" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_devices_blueline" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_devices_bonito" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_devices_bramble" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_devices_coral" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_devices_crosshatch" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_devices_flame" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_devices_muskie" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_devices_redfin" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_devices_sargo" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_devices_sunfish" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_devices_taimen" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_google_devices_walleye" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_oneplus_kebab" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_oneplus_lemonade" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_oneplus_lemonadep" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_oneplus_sm8250-common" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_oneplus_sm8350-common" remote="gitlab-priv" />
+  <project name="BeachOS/proprietary_vendor_xiaomi" remote="gitlab-priv" />
+
+</manifest>
